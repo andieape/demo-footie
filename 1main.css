@@ -19,9 +19,7 @@
 	border: none;
 }
 #Web_1920__1 {
-	position: absolute;
-	width: 1920px;
-	height: 1080px;
+
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Web 1920 – 1;
