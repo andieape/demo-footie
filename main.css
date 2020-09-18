@@ -1,0 +1,446 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255,255,255,1);
+	
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+#field_rect {
+	fill: rgba(112,155,94,1);
+}
+
+.main_field {
+	width: 1200px;
+    height: 640px;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 20px;
+    background: #709b5e;
+    overflow: visible;
+    box-shadow: 0px 21px 99px rgba(0, 0, 0, 0.36);
+}
+
+.Rectangle_1 {
+	filter: drop-shadow(0px 21px 99px rgba(0, 0, 0, 0.361));
+	position: absolute;
+	overflow: visible;
+	width: 1497px;
+	height: 937px;
+	left: 360px;
+	top: 220px;
+}
+#Path_1 {
+	fill: transparent;
+	stroke: rgba(189,206,182,1);
+	stroke-width: 7px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 176px;
+	height: 176px;
+	left: 872px;
+	top: 452px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(189,206,182,1);
+	stroke-width: 7px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 641px;
+	left: 960.5px;
+	top: 220.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_1 {
+	fill: rgba(189,206,182,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	height: 28px;
+	left: 946px;
+	top: 526px;
+}
+#left_goal {
+	fill: rgba(189,206,182,1);
+}
+.left_goal {
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	height: 382px;
+	left: 360px;
+	top: 349px;
+}
+#right_goal {
+	fill: rgba(189,206,182,1);
+}
+.right_goal {
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	height: 382px;
+	left: 1410px;
+	top: 349px;
+}
+#ball_1 {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 400px;
+	top: 295px;
+	overflow: visible;
+}
+#Ellipse_3 {
+	fill: rgba(33,75,242,1);
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#DIV {
+	left: 11px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+.ball_in_goal {
+	
+	position: relative;
+	width: 42px;
+	height: 42px;	
+	overflow: visible;
+	margin: 30px 10px;
+	
+}
+
+.goal_text .balls {
+	flex-flow: row;
+	display: flex;
+}
+
+
+#Ellipse_3_q {
+	fill: rgba(33,75,242,1);
+}
+.Ellipse_3_q {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#DIV_r {
+	left: 11px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ball_2 {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 1083px;
+	top: 389px;
+	overflow: visible;
+}
+#Ellipse_7 {
+	fill: rgba(229,143,31,1);
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#P {
+	left: 18px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ball_3 {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 1330px;
+	top: 444px;
+	overflow: visible;
+}
+#Ellipse_5 {
+	fill: rgba(117,226,63,1);
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#I {
+	left: 20px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+
+#Ellipse_5_z {
+	fill: rgba(117,226,63,1);
+}
+.Ellipse_5_z {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#I_ {
+	left: 20px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ball_4 {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 493px;
+	top: 547px;
+	overflow: visible;
+}
+#Ellipse_6 {
+	fill: rgba(235,251,16,1);
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#B {
+	left: 18px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#ball_6 {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 797px;
+	top: 431px;
+	overflow: visible;
+}
+#Ellipse_2 {
+	fill: rgba(226,63,183,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#A {
+	left: 17px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ball_5 {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 771px;
+	top: 629px;
+	overflow: visible;
+}
+#Ellipse_4 {
+	fill: rgba(28,236,187,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#SPAN {
+	left: 6px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+
+.goal_text {
+	
+	position: relative;
+	overflow: visible;	
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	text-align: center;
+	margin: 0 3rem;
+	padding-top: 3em;
+}
+
+
+.goal_text.goal_title{		
+	font-size: 54px;
+	padding-top: 1em;
+	
+}
+
+#ID11 {
+	
+	position: relative;
+	overflow: visible;	
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(0,0,0,1);
+}
+
+
+.player_circle {
+	cursor: grab;
+}
+
+.player_circle.active {
+	cursor: grabbing;
+}
+
+.top_wrap {
+	margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
